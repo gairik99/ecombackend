@@ -27,6 +27,7 @@ This will install all required packages listed in `package.json`.
 │── /controller    # Business Logic for Routes
 │── /middleware    # request verification 
 │── App.js         # Main Entry Point
+│── .env           #set PORT,DATABASE(connection string),DATABASE_PASSWORD
 │── package.json   # Dependencies & Scripts` 
 ```
 
